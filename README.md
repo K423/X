@@ -1,1 +1,2 @@
-# Request analysis of API  about twitter
+## Analysis of the Twitter API request.
+
